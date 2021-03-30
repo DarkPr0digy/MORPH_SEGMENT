@@ -1,0 +1,18 @@
+{
+  "corpus_dir": "corpus_dir/",
+  "model_dir": "surface_model/",
+  "num_epoch": 20,
+  "lr": 0.01,
+  "weight_decay": 0.0,
+  "batch_size": 1000,
+  "device": null,
+  "max_seq_len": 100,
+  "val_split": 0.2,
+  "test_split": 0.2,
+  "recovery": false,
+  "save_best_val_model": false,
+  "embedding_dim": 100,
+  "hidden_dim": 128,
+  "num_rnn_layers": 1,
+  "rnn_type": "lstm"
+}

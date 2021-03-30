@@ -1,0 +1,2 @@
+Cleaning of data from NCHLT Annotated Corpora, Combines Lemmatized, POS Annotated and Morphologically Analyzed in single tab seperated files
+Using the available data Surface segmentation form of words are generated to be used in the Conditional Random Fields for Morphological Segmentation Project

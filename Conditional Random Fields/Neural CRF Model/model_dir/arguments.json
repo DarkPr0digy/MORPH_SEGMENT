@@ -1,0 +1,1 @@
+{"corpus_dir": "corpus_dir/", "model_dir": "model_dir/", "num_epoch": null, "lr": null, "weight_decay": null, "batch_size": null, "device": null, "max_seq_len": 100, "val_split": 0.2, "test_split": 0.2, "recovery": false, "save_best_val_model": false, "embedding_dim": 100, "hidden_dim": 128, "num_rnn_layers": null, "rnn_type": "lstm"}
