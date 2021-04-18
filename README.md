@@ -33,5 +33,10 @@ Within the repository there are saved models which can be loaded and and run to 
 
 
 --------------------------------------------------------------------
+### Links:
+
+Original Paper:
+https://arxiv.org/abs/2104.00767
+
 Website For Further Details:
 https://projects.cs.uct.ac.za/honsproj/cgi-bin/view/2020/daniels_moeng_reay.zip/MORPH_SEGMENT/MORPH-SEGMENT.html
