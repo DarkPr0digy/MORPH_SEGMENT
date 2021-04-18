@@ -2,7 +2,7 @@
 ## Morphological Segmentation of Low Resource South African Languages
 
 
--------------------------------------------------------------------
+<br>
 
 
 ## Project Team: Mr. Aaron Daniels, Mr. Tumi Moeng, Mr. Sheldon Reay
